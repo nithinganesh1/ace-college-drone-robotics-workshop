@@ -155,12 +155,11 @@ These projects bring together electronics, mechanical design, software integrati
 
 ---
 
-## 👨‍🏫 Contributors / Trainers
-
-- [Sahil Pillai](https://github.com/Sahilpillai006) – Robotics & Drone Trainer  
-- [Nithin Ganesh](https://github.com/nithinganesh1) – AI, Vision & LLMs  
-- [Dani Johnson](https://github.com/danixj) – Embedded Systems & Raspberry Pi  
-- Allwin – Workshop Support & Coordination  
+## 👨‍🏫 Contributors
+- [Sahil Pillai](https://github.com/Sahilpillai006) – Robotics & Drone
+- [Nithin Ganesh](https://github.com/nithinganesh1) – Robotics, AI, Vision & LLMs  
+- [Dani Johnson](https://github.com/danixj) – Embedded Systems & Robotics
+- [Allwin Jacob](https://github.com/allwinjacob) – Embedded system & Coordinatior
 
 ---
 
