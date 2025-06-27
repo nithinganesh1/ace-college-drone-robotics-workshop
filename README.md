@@ -171,7 +171,3 @@ For queries:
 - 📧 nithingganesh1@gmail.com
 - 📧 allwinjacob007@gmail.com
 - 📧 danijohnson74074@gmail.com
-
----
-
-**Let's build the future, one bot and drone at a time!**
