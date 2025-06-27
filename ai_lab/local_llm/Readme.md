@@ -1,5 +1,4 @@
-# 🧠 Running Local LLMs with Ollama – ACE Workshop
-
+# 🧠 Running Local LLMs with Ollama
 This folder contains demos and notes on how to run **Large Language Models (LLMs)** locally using [Ollama](https://ollama.com).
 Participants explored various open-source models and compared their performance directly on their own systems.
 
