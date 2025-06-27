@@ -1,4 +1,4 @@
-# 🤖 AI Projects – ACE Workshop
+# 🤖 AI Projects 
 
 This folder contains all the AI-related demos from the ACE College Drone & Robotics Workshop. It includes NLP chatbots, OpenAI API examples, and running local LLMs.
 
