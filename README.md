@@ -174,4 +174,3 @@ For queries:
 
 ---
 
-**Let's build the future, one bot and drone at a time!**
