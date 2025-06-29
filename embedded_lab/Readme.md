@@ -1,4 +1,4 @@
-# 7-Segment Display Counter using Arduino
+# 7-Segment Display Counter
 
 This Arduino project controls a **7-segment display** using **8 digital pins** to show numbers from 0 to 9 with a 1-second interval between each.
 
