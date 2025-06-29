@@ -53,7 +53,3 @@ Each segment of the 7-segment display is connected to one digital pin on the Ard
 * Practice basic timing with `delay()`.
 * Understand how to break code into functions for readability.
 
----
-
-**Author**: ACE College Workshop Team
-**License**: MIT
